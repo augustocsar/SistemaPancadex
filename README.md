@@ -54,11 +54,3 @@ Pancadex é um sistema de gerenciamento de acidentes de trânsito desenvolvido c
 │       └── Veiculo.java
 ├── App.java
 └── README.md ```
-
-### 📂 Descrição dos Diretórios
-
-- **Acidentes/**: Classes relacionadas aos tipos de acidentes e ocorrências
-- **Gerenciador/**: Contém a lógica de gerenciamento das ocorrências
-- **Tipos/**: Implementações dos diferentes tipos de colisões
-- **Veiculos/**: Classes que representam os diferentes tipos de veículos
-- **App.java**: Classe principal que inicializa o sistema
