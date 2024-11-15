@@ -31,6 +31,7 @@ Pancadex é um sistema de gerenciamento de acidentes de trânsito desenvolvido c
 
 ## 📁 Estrutura do Projeto
 
+```java public class Exemplo { public static void main(String[] args) { System.out.println("Olá, Mundo!"); } } ```
 
 PANCADEX
 ├── .vscode
