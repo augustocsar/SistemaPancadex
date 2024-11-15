@@ -31,7 +31,29 @@ Pancadex é um sistema de gerenciamento de acidentes de trânsito desenvolvido c
 
 ## 📁 Estrutura do Projeto
 
-``` Estrutura do Projeto PANCADEX ├── .vscode ├── bin ├── lib ├── src │ ├── Acidentes │ │ ├── AcidenteCapotamento.java │ │ ├── AcidenteColisao.java │ │ └── Ocorrencia.java │ ├── Gerenciador │ │ └── GerenciadorOcorrencias.java │ ├── Tipos │ │ ├── ColisaoEngavetamento.java │ │ ├── ColisaoFrontal.java │ │ ├── ColisaoLateral.java │ │ ├── ColisaoTraseira.java │ │ └── TipoColisao.java │ └── Veiculos │ ├── Carro.java │ ├── Moto.java │ └── Veiculo.java ├── App.java └── README.md ```
+``` PANCADEX
+├── .vscode
+├── bin
+├── lib
+├── src
+│   ├── Acidentes
+│   │   ├── AcidenteCapotamento.java
+│   │   ├── AcidenteColisao.java
+│   │   └── Ocorrencia.java
+│   ├── Gerenciador
+│   │   └── GerenciadorOcorrencias.java
+│   ├── Tipos
+│   │   ├── ColisaoEngavetamento.java
+│   │   ├── ColisaoFrontal.java
+│   │   ├── ColisaoLateral.java
+│   │   ├── ColisaoTraseira.java
+│   │   └── TipoColisao.java
+│   └── Veiculos
+│       ├── Carro.java
+│       ├── Moto.java
+│       └── Veiculo.java
+├── App.java
+└── README.md ```
 
 ### 📂 Descrição dos Diretórios
 
