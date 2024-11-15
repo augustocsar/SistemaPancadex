@@ -31,7 +31,7 @@ Pancadex é um sistema de gerenciamento de acidentes de trânsito desenvolvido c
 
 ## 📁 Estrutura do Projeto
 
-``` PANCADEX
+```PANCADEX
 ├── .vscode
 ├── bin
 ├── lib
@@ -53,7 +53,8 @@ Pancadex é um sistema de gerenciamento de acidentes de trânsito desenvolvido c
 │       ├── Moto.java
 │       └── Veiculo.java
 ├── App.java
-└── README.md 
+└── README.md
+```
 
 ### 📂 Descrição dos Diretórios
 
